@@ -1,0 +1,38 @@
+,source,target,value
+0,France,Russia,6
+1,Italy,Russia,6
+2,Italy,Romania,6
+3,Germany,Romania,6
+4,Austria,Germany,6
+5,Austria,Hungary,6
+6,Bulgaria,Hungary,6
+7,Bulgaria,Germany,5
+8,Germany,Italy,14
+9,Germany,Spain,6
+10,Japan,Spain,5
+11,Germany,Japan,12
+12,Italy,Japan,11
+13,Germany,Poland,6
+14,Canada,Poland,6
+15,Canada,France,6
+16,France,Japan,9
+17,France,Germany,9
+18,Cuba,France,1
+19,Cuba,Vietnam,15
+20,South Africa,Vietnam,1
+21,India,South Africa,4
+22,Ireland,Japan,6
+23,Germany,Ireland,5
+24,France,Italy,6
+25,Japan,Russia,6
+26,Egypt,Russia,3
+27,France,Spain,4
+28,Israel,Japan,5
+29,Israel,Palestine,4
+30,Cuba,Palestine,5
+31,India,Vietnam,6
+32,India,Pakistan,6
+33,Pakistan,South Africa,2
+34,Afghanistan,South Africa,2
+35,Australia,Canada,6
+36,Australia,New Zealand,6
